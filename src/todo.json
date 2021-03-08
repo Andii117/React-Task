@@ -1,0 +1,35 @@
+{
+    "todos":[
+        {
+            "title":"task_1",
+            "responsable":"Andres",
+            "description":"lorem ipsum",
+            "preiority":"low"
+        },
+        {
+            "title":"task_2",
+            "responsable":"David",
+            "description":"lorem ipsum",
+            "preiority":"medium"
+        },
+        {
+            "title":"task_3",
+            "responsable":"Alberto",
+            "description":"lorem ipsum",
+            "preiority":"high"
+        }
+        ,
+        {
+            "title":"task_4",
+            "responsable":"Mari",
+            "description":"lorem ipsum",
+            "preiority":"high"
+        },
+        {
+            "title":"task_5",
+            "responsable":"Felipe",
+            "description":"lorem ipsum",
+            "preiority":"high"
+        }
+    ]
+}
