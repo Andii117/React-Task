@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Task/static/css/main.1aee3f59.chunk.css",
+    "main.js": "/React-Task/static/js/main.b6ff0985.chunk.js",
+    "main.js.map": "/React-Task/static/js/main.b6ff0985.chunk.js.map",
+    "runtime-main.js": "/React-Task/static/js/runtime-main.40404765.js",
+    "runtime-main.js.map": "/React-Task/static/js/runtime-main.40404765.js.map",
+    "static/js/2.93d4db38.chunk.js": "/React-Task/static/js/2.93d4db38.chunk.js",
+    "static/js/2.93d4db38.chunk.js.map": "/React-Task/static/js/2.93d4db38.chunk.js.map",
+    "static/js/3.ba39171c.chunk.js": "/React-Task/static/js/3.ba39171c.chunk.js",
+    "static/js/3.ba39171c.chunk.js.map": "/React-Task/static/js/3.ba39171c.chunk.js.map",
+    "index.html": "/React-Task/index.html",
+    "static/css/main.1aee3f59.chunk.css.map": "/React-Task/static/css/main.1aee3f59.chunk.css.map",
+    "static/js/2.93d4db38.chunk.js.LICENSE.txt": "/React-Task/static/js/2.93d4db38.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Task/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40404765.js",
+    "static/js/2.93d4db38.chunk.js",
+    "static/css/main.1aee3f59.chunk.css",
+    "static/js/main.b6ff0985.chunk.js"
+  ]
+}
